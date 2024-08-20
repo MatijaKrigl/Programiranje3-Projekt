@@ -1,0 +1,13 @@
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Images\dice_1.png
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Images\dice_2.png
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Images\dice_3.png
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Images\dice_4.png
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Images\dice_5.png
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Images\dice_6.png
+C:\Users\matij\OneDrive\Namizje\PROG3\app\ClovekNeJeziSe.exe
+C:\Users\matij\OneDrive\Namizje\PROG3\app\ClovekNeJeziSe.dll
+C:\Users\matij\OneDrive\Namizje\PROG3\app\ClovekNeJeziSe.deps.json
+C:\Users\matij\OneDrive\Namizje\PROG3\app\ClovekNeJeziSe.runtimeconfig.json
+C:\Users\matij\OneDrive\Namizje\PROG3\app\ClovekNeJeziSe.pdb
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Elasticsearch.Net.dll
+C:\Users\matij\OneDrive\Namizje\PROG3\app\Nest.dll
